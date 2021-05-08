@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="Start&#10;&#10;adding django" />
+    <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="Start&#10;&#10;adding django">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620480031055</updated>
       <workItem from="1620480045741" duration="322000" />
+      <workItem from="1620480807415" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="Start&#10;&#10;adding django">
       <created>1620480279495</created>
