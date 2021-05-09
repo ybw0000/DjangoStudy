@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="Start&#10;&#10;adding django">
-      <change afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/firstapp/static/firstapp/css/firstapp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/firstapp/static/firstapp/img/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/firstapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/study/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/study/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/study/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/study/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620480031055</updated>
       <workItem from="1620480045741" duration="322000" />
-      <workItem from="1620480807415" duration="6243000" />
+      <workItem from="1620480807415" duration="11606000" />
     </task>
     <task id="LOCAL-00001" summary="Start&#10;&#10;adding django">
       <created>1620480279495</created>
