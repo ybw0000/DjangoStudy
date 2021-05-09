@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="Start&#10;&#10;adding django">
+    <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/firstapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/firstapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -53,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1620480031055</updated>
       <workItem from="1620480045741" duration="322000" />
-      <workItem from="1620480807415" duration="15066000" />
+      <workItem from="1620480807415" duration="16023000" />
+      <workItem from="1620578888434" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Start&#10;&#10;adding django">
       <created>1620480279495</created>
@@ -62,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620480279495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1620574301439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620574301439</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Start&#10;&#10;adding django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start&#10;&#10;adding django" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>
