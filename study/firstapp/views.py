@@ -2,7 +2,17 @@ from django.shortcuts import render
 
 
 def index(request):
-    return render(request, 'firstapp/index.html')
+    data = {
+        'title': 'Main page',
+        'values': ['Some', 'Hello', '123'],
+        'obj' : {
+            'car' : 'bmw',
+            'age' : '18',
+            'hobby' : 'volleyball'
+        }
+    }
+
+    return render(request, 'firstapp/index.html', data)
 
 def about(request):
     return render(request, 'firstapp/about.html')
