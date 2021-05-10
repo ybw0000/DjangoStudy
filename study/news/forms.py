@@ -1,25 +1,26 @@
 from .models import Article
-from django.forms import ModelForm, TextInput, DateTimeInput, TextArea
+from django import forms
 
-class ArticleForm(ModelForm):
+
+class ArticleForm(forms.ModelForm):
     class Meta:
         model = Article
         fields = ['title', 'anons', 'full_text', 'date']
 
         widgets = {
-            "title": TextInput(attrs={
+            "title": forms.TextInput(attrs={
                 'class': 'form-control',
                 'placeholed': 'Name news'
             }),
-            "anons": TextInput(attrs={
+            "anons": forms.TextInput(attrs={
                 'class': 'form-control',
                 'placeholed': 'Anons'
             }),
-            "date": DateTimeInput(attrs={
+            "date": forms.DateTimeInput(attrs={
                 'class': 'form-control',
                 'placeholed': 'Publication date'
             }),
-            "full_text": TextArea(attrs={
+            "full_text": forms.Textarea(attrs={
                 'class': 'form-control',
                 'placeholed': 'Text'
             }),

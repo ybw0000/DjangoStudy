@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="New app">
-      <change afterPath="$PROJECT_DIR$/study/news/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/news/templates/news/create.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/firstapp/static/firstapp/css/firstapp.css" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/static/firstapp/css/firstapp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/firstapp/templates/firstapp/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/templates/news/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/templates/news/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/templates/news/news_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/templates/news/news_home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +57,11 @@
       <updated>1620480031055</updated>
       <workItem from="1620480045741" duration="322000" />
       <workItem from="1620480807415" duration="16023000" />
-      <workItem from="1620578888434" duration="7570000" />
+      <workItem from="1620578888434" duration="7595000" />
+      <workItem from="1620588239629" duration="19000" />
+      <workItem from="1620588586667" duration="487000" />
+      <workItem from="1620589239337" duration="1083000" />
+      <workItem from="1620651297893" duration="1488000" />
     </task>
     <task id="LOCAL-00001" summary="Start&#10;&#10;adding django">
       <created>1620480279495</created>

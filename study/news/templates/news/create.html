@@ -7,10 +7,10 @@
         <h1>Form for adding new news</h1>
         <form method="post">
             {% csrf_token %}
-            {{ form.title }}
-            {{ form.anons }}
-            {{ form.full_text }}
-            {{ form.date }}
+            {{ form.title }}<br>
+            {{ form.anons }}<br>
+            {{ form.full_text }}<br>
+            {{ form.date }}<br>
 
             <input type="text" placeholder="Name of news" class="form-control"><br>
             <input type="text" placeholder="Anons" class="form-control"><br>
