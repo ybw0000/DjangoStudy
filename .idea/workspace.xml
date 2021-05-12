@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7467a7f-109d-44ae-8de6-a7b2f78eeaa6" name="Default Changelist" comment="New app">
+      <change afterPath="$PROJECT_DIR$/study/news/templates/news/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/news/templates/news/details_view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/study/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/news/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/news/templates/news/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/templates/news/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/templates/news/news_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/templates/news/news_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +70,7 @@
       <workItem from="1620748808582" duration="612000" />
       <workItem from="1620750399938" duration="788000" />
       <workItem from="1620804339261" duration="863000" />
-      <workItem from="1620826636054" duration="1476000" />
+      <workItem from="1620826636054" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="Start&#10;&#10;adding django">
       <created>1620480279495</created>
